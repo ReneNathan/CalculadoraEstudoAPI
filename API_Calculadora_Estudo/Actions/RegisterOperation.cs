@@ -8,9 +8,8 @@ namespace API_Calculadora_Estudo.Actions
         public string Execute(Conta conta)
         {
             //validate
-
+        
             var dbContext = new Db_Connection();
-
             dbContext.Contas.Add(conta);
             dbContext.SaveChanges();
 
