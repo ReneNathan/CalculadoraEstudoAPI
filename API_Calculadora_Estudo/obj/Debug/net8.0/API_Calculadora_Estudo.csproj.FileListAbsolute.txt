@@ -60,3 +60,4 @@ C:\Users\47034764875\source\repos\API_Calculadora_Estudo\API_Calculadora_Estudo\
 C:\Users\47034764875\source\repos\API_Calculadora_Estudo\API_Calculadora_Estudo\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\47034764875\source\repos\API_Calculadora_Estudo\API_Calculadora_Estudo\obj\Debug\net8.0\API_Calculadora_Estudo.sourcelink.json
 C:\Users\47034764875\source\repos\API_Calculadora_Estudo\API_Calculadora_Estudo\obj\Debug\net8.0\API_Calc.0CFC23FA.Up2Date
+C:\Users\47034764875\source\repos\API_Calculadora_Estudo\API_Calculadora_Estudo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

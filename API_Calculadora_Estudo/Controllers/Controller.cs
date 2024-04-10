@@ -4,6 +4,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using API_Calculadora_Estudo.Errors;
 using API_Calculadora_Estudo.Filters;
+using Microsoft.OpenApi.Models;
+
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace API_Calculadora_Estudo.Controllers
 {
@@ -12,6 +15,8 @@ namespace API_Calculadora_Estudo.Controllers
     public class Controller : ControllerBase
     {
         [HttpPost]
+        [SwaggerOperation(Summary = "Registra uma nova conta ")]
+        [Route("/RegisterConta")]
         [ProducesResponseType(typeof(ContaRequest), StatusCodes.Status201Created)]
         [ProducesResponseType(typeof(Error_Base), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(Error_Base),StatusCodes.Status422UnprocessableEntity)]
@@ -74,10 +79,11 @@ namespace API_Calculadora_Estudo.Controllers
         //------------------------------------------------------------------------------------------------------
         
         [HttpGet]
-        [Route("/{id}")]
+        [Route("/Conta/{id}")]
+        [SwaggerOperation(Summary = "Busca uma conta com base em sua ID")]
         [ProducesResponseType(typeof(Conta), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(Error_Base), StatusCodes.Status404NotFound)]
-        public IActionResult RegisterConta([FromRoute] Guid id)
+        public IActionResult FindConta([FromRoute] Guid id)
         {
             var ContaToBeFound = new GetContaById();
             try
@@ -89,6 +95,46 @@ namespace API_Calculadora_Estudo.Controllers
                 return NotFound(ex.Message);
             }
             
-        }gi
+        }
+
+
+        [HttpGet]
+        [SwaggerOperation(Summary = "Retorna todas as contas existentes na base de dados")]
+        [Route("/AllContas")]
+        [ProducesResponseType(typeof(List<Conta>), StatusCodes.Status200OK)]
+        public IActionResult GetAllContasInAList()
+        {
+            var GetAll = new GetAllContas();
+
+            var ContaList = GetAll.Execute();
+
+            return Ok(ContaList);
+
+        }
+
+        //---------------------------------------------------------------------------------
+        [HttpDelete]
+        [SwaggerOperation(Summary = "Exclui um valor da base de dados com base no Id")]
+        [Route("/DeleteConta/{id}")]
+        [ProducesResponseType(typeof(string), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(Error_Base), StatusCodes.Status404NotFound)]
+        public IActionResult DeleteConta([FromRoute] Guid id)
+        {
+            var delete = new DeleteContaById();
+
+            try
+            {
+                var deleteOk = delete.Execute(id);
+
+                return Ok(deleteOk);
+
+            } catch (NotFoundError ex)
+            {
+                return NotFound(ex.Message);
+            }
+
+            
+
+        }
     }
 }
