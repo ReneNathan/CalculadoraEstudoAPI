@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\entidades\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\entidades\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\actions\\getcontabyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\actions\\getcontabyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\errors\\notfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\errors\\notfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\entidades\\contarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\entidades\\contarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\actions\\registeroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\actions\\registeroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\errors\\zerodivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\errors\\zerodivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\errors\\nooperationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\errors\\nooperationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|c:\\users\\47034764875\\source\\repos\\api_calculadora_estudo\\api_calculadora_estudo\\errors\\zerodivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FAF35B6-FD7F-4A0D-8B9F-13E6723C43C4}|API_Calculadora_Estudo\\API_Calculadora_Estudo.csproj|solutionrelative:api_calculadora_estudo\\errors\\zerodivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,6 +87,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "NotFoundError.cs",
+              "DocumentMoniker": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Errors\\NotFoundError.cs",
+              "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Errors\\NotFoundError.cs",
+              "ToolTip": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Errors\\NotFoundError.cs",
+              "RelativeToolTip": "API_Calculadora_Estudo\\Errors\\NotFoundError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:02:30.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetContaById.cs",
+              "DocumentMoniker": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Actions\\GetContaById.cs",
+              "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Actions\\GetContaById.cs",
+              "ToolTip": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Actions\\GetContaById.cs",
+              "RelativeToolTip": "API_Calculadora_Estudo\\Actions\\GetContaById.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:40:01.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Entidades\\Conta.cs",
+              "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Entidades\\Conta.cs",
+              "ToolTip": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Entidades\\Conta.cs",
+              "RelativeToolTip": "API_Calculadora_Estudo\\Entidades\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:39:15.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Entidades\\ContaRequest.cs",
+              "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Entidades\\ContaRequest.cs",
+              "ToolTip": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Entidades\\ContaRequest.cs",
+              "RelativeToolTip": "API_Calculadora_Estudo\\Entidades\\ContaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:31:07.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterOperation.cs",
+              "DocumentMoniker": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Actions\\RegisterOperation.cs",
+              "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Actions\\RegisterOperation.cs",
+              "ToolTip": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Actions\\RegisterOperation.cs",
+              "RelativeToolTip": "API_Calculadora_Estudo\\Actions\\RegisterOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:27:51.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ZeroDivision.cs",
               "DocumentMoniker": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Errors\\ZeroDivision.cs",
               "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Errors\\ZeroDivision.cs",
@@ -79,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Filters\\ExceptionFilter.cs",
               "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Filters\\ExceptionFilter.cs",
@@ -92,13 +177,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "NoOperationError.cs",
               "DocumentMoniker": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Errors\\NoOperationError.cs",
               "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Errors\\NoOperationError.cs",
               "ToolTip": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Errors\\NoOperationError.cs",
               "RelativeToolTip": "API_Calculadora_Estudo\\Errors\\NoOperationError.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T11:37:12.044Z",
               "EditorCaption": ""
@@ -111,7 +196,7 @@
               "RelativeDocumentMoniker": "API_Calculadora_Estudo\\Controllers\\Controller.cs",
               "ToolTip": "C:\\Users\\47034764875\\source\\repos\\API_Calculadora_Estudo\\API_Calculadora_Estudo\\Controllers\\Controller.cs",
               "RelativeToolTip": "API_Calculadora_Estudo\\Controllers\\Controller.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAARAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwFsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T13:55:11.742Z",
               "EditorCaption": ""

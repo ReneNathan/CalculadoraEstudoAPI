@@ -70,5 +70,25 @@ namespace API_Calculadora_Estudo.Controllers
 
             return Created(string.Empty, ok);
         }
+
+        //------------------------------------------------------------------------------------------------------
+        
+        [HttpGet]
+        [Route("/{id}")]
+        [ProducesResponseType(typeof(Conta), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(Error_Base), StatusCodes.Status404NotFound)]
+        public IActionResult RegisterConta([FromRoute] Guid id)
+        {
+            var ContaToBeFound = new GetContaById();
+            try
+            {
+                var response = ContaToBeFound.Execute(id);
+                return Ok(response);
+            } catch (NotFoundError ex)
+            {
+                return NotFound(ex.Message);
+            }
+            
+        }gi
     }
 }
