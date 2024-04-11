@@ -132,9 +132,25 @@ namespace API_Calculadora_Estudo.Controllers
             {
                 return NotFound(ex.Message);
             }
+        }
 
+        //---------------------------------------------------------------------------------
+        [HttpPut]
+        [SwaggerOperation(Summary = "Muda um valor da base de dados com base no Id")]
+        [Route("/ChangeConta")]
+        public IActionResult PutConta([FromBody] Conta contaToBeUpdated)
+        {
+            var update = new UpdateConta();
+
+            try
+            {
+                var updateOk = update.Execute(contaToBeUpdated);
+
+                return Ok(updateOk);
+            } catch(NotFoundError ex) { 
             
-
+                return NotFound(ex.Message);
+            }
         }
     }
 }

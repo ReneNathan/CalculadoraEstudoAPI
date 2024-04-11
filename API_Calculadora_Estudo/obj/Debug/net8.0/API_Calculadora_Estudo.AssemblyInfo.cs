@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_Calculadora_Estudo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+011267648da2b5bf1ab4153878e9f6e6fa97095e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e907fd6ab5688f4cdd17ffb7b51fc759f216e89a")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_Calculadora_Estudo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_Calculadora_Estudo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
